@@ -6,22 +6,29 @@
 # ⚡ Mirza Uzair Baig
 ### Full-Stack Developer in Training • Self-Taught Builder • Karachi, Pakistan
 
-<p style="color: #8b949e; max-width: 500px; margin: 15px auto; font-size: 15px; line-height: 1.5;">
-I build digital products that scale. From concept to deployment, I transform ideas into robust, high-performance web applications.
+<p style="color: #8b949e; max-width: 560px; margin: 15px auto; font-size: 15px; line-height: 1.6;">
+I build digital products that scale — from concept to deployment. Currently leveling up from JavaScript/Firebase into React, TypeScript, and full-stack architecture.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+Training;Self-Taught+Builder;Building+Interactive+UIs;Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Training;Self-Taught+Builder;React+%26+TypeScript+Enthusiast;Firebase+%2F+Firestore+Practitioner;Open+to+Opportunities" alt="Typing SVG" />
 
-<div style="margin-top: 15px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=500&size=19&pause=1000&color=FFFFFF&repeat=false&width=435&separator=%3C&lines=console.log('Write+code+that+matters');" alt="Typing SVG" />
+<div style="margin-top: 12px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&repeat=false&width=500&lines=console.log('Write+code+that+matters');" alt="Typing SVG" />
 </div>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0369a1?style=for-the-badge&logoColor=white)](https://uzairbaigdev.github.io/Portfolio-repo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-baig-1699563ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<br/>
 
 <table width="100%">
 <tr bgcolor="#161b22">
@@ -31,17 +38,19 @@ I build digital products that scale. From concept to deployment, I transform ide
 
 <table width="100%" bgcolor="#161b22" style="border: none;">
 <tr>
-<td width="60%" valign="top" style="border: none; color: #c9d1d9; font-size: 15px; line-height: 1.6;">
+<td width="60%" valign="top" style="border: none; color: #c9d1d9; font-size: 15px; line-height: 1.7;">
 
-* 🛠️ **Core Stack:** JavaScript (ES6+) • Firebase / Firestore • HTML5 / CSS3  
-* ⚡ **Mindset:** Ship fast, iterate faster, pixel-level detail  
-* 🎯 **Philosophy:** Code with purpose, build with passion  
+* 🛠️ **Core Stack:** JavaScript (ES6+) • React • TypeScript • Firebase / Firestore • HTML5 / CSS3
+* ⚡ **Mindset:** Ship fast, iterate faster, obsess over pixel-level detail
+* 🎯 **Philosophy:** Code with purpose, build with passion
+* 🌱 **Currently Learning:** React component architecture, TypeScript type systems, and full-stack (Node.js) fundamentals
+* 🤝 **Collaborating on:** Firebase-powered real-time web apps and enterprise-style dashboards
 
 <br/>
 
-What started as curiosity turned into **23+ projects** built entirely from scratch. I care about real-time data, optimized configurations, and writing clean, maintainable systems.
+What started as curiosity turned into **24+ projects** built entirely from scratch — real-time chat systems, role-based enterprise portals, REST API integrations, and full responsive websites.
 
-🌱 Currently expanding my expertise and **actively learning Full-Stack Development** to build comprehensive end-to-end applications.
+I care about clean architecture, optimized data flows, and interfaces that feel effortless to use.
 
 📫 Reach me at: **mirzauzair448@gmail.com**
 
@@ -94,13 +103,32 @@ What started as curiosity turned into **23+ projects** built entirely from scrat
 
 <h3 align="left">🛠️ Tech Stack & Tools</h3>
 
+<p align="left"><strong>Languages & Core</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left"><strong>Frameworks & Libraries</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="left"><strong>Backend & Database</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+</p>
+
+<p align="left"><strong>Tools & Platforms</strong></p>
+<p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 </td>
@@ -115,48 +143,62 @@ What started as curiosity turned into **23+ projects** built entirely from scrat
 
 <table width="100%">
 <tr bgcolor="#0d1117">
-<th align="left" width="30%">Project</th>
+<th align="left" width="22%">Project</th>
 <th align="left" width="45%">Description</th>
-<th align="left" width="15%">Tags</th>
-<th align="center" width="10%">Source</th>
+<th align="left" width="20%">Tags</th>
+<th align="center" width="13%">Links</th>
+</tr>
+<tr bgcolor="#161b22">
+<td>⭐ <strong>Maintain IQ</strong></td>
+<td>Enterprise maintenance portal with Admin/Technician/User role-based access, secure Firebase Auth, and real-time Firestore dashboards.</td>
+<td><code>Firebase Auth</code> <code>Firestore</code> <code>RBAC</code></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/maintain-IQ-Level">🚀 View</a></td>
+</tr>
+<tr bgcolor="#0d1117">
+<td><strong>Chat App</strong></td>
+<td>Real-time messaging application with instant, cloud-synced conversations between users.</td>
+<td><code>Firebase</code> <code>Firestore</code> <code>Real-Time</code></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/chatApp">🚀 View</a></td>
 </tr>
 <tr bgcolor="#161b22">
 <td><strong>Authentication Todo App</strong></td>
-<td>Full-stack Firebase app with secure sign-up, personal accounts, and live cloud sync.</td>
+<td>Full-stack Firebase app with secure sign-up, private per-user accounts, and live cloud sync.</td>
 <td><code>Firebase</code> <code>Firestore</code> <code>JS</code></td>
-<td align="center"><a href="https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Authentication%20Todo">🚀 View</a></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Authentication%20Todo">🚀 View</a></td>
 </tr>
 <tr bgcolor="#0d1117">
-<td><strong>Nascom Website ⭐</strong></td>
+<td><strong>Nascom Website</strong></td>
 <td>Fully responsive multi-page corporate web layout built entirely from scratch.</td>
 <td><code>HTML5</code> <code>CSS3</code> <code>JS</code></td>
-<td align="center"><a href="https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/nascom-website">🚀 View</a></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/nascom-website">🚀 View</a></td>
 </tr>
 <tr bgcolor="#161b22">
-<td><strong>Todo App with Firebase</strong></td>
-<td>Task organizer connected directly to real-time cloud data pipelines.</td>
-<td><code>Firestore</code> <code>HTML5</code> <code>CSS3</code></td>
-<td align="center"><a href="https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Todo%20list%20with%20firebase">🚀 View</a></td>
-</tr>
-<tr bgcolor="#0d1117">
 <td><strong>Weather App</strong></td>
 <td>Live client dashboard parsing external asynchronous REST API weather updates.</td>
 <td><code>REST API</code> <code>Fetch</code> <code>UX</code></td>
-<td align="center"><a href="https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Weather%20App">🚀 View</a></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Weather%20App">🚀 View</a></td>
+</tr>
+<tr bgcolor="#0d1117">
+<td><strong>Todo App with Firebase</strong></td>
+<td>Task organizer connected directly to real-time cloud data pipelines.</td>
+<td><code>Firestore</code> <code>HTML5</code> <code>CSS3</code></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Todo%20list%20with%20firebase">🚀 View</a></td>
 </tr>
 <tr bgcolor="#161b22">
 <td><strong>Student Management</strong></td>
 <td>Persistent student record tracking application utilizing client-side structures.</td>
 <td><code>LocalStorage</code> <code>DOM</code></td>
-<td align="center"><a href="https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Student%20management">🚀 View</a></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Student%20management">🚀 View</a></td>
 </tr>
 <tr bgcolor="#0d1117">
 <td><strong>Advanced Calculator</strong></td>
-<td>Clean UI computing logic updates instantly with full physical keyboard mapping.</td>
+<td>Clean UI computing logic that updates instantly with full physical keyboard mapping.</td>
 <td><code>DOM</code> <code>CSS Architecture</code></td>
-<td align="center"><a href="https://github.com/uzairBaig395/Portfolio-repo/tree/main/Projects/Calcultaor">🚀 View</a></td>
+<td align="center"><a href="https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Calcultaor">🚀 View</a></td>
 </tr>
 </table>
+
+<p align="center"><a href="https://uzairbaigdev.github.io/Portfolio-repo"><strong>→ See the full project showcase on my live portfolio</strong></a></p>
 
 </td>
 </tr>
@@ -168,12 +210,13 @@ What started as curiosity turned into **23+ projects** built entirely from scrat
 
 <h3 align="left">✨ Live Production Portfolio Features</h3>
 
-<p align="left">Beyond my repositories, my interactive <a href="https://github.com/uzairBaig395/portfolio">Live Portfolio Site</a> is engineered with:</p>
+<p align="left">Beyond my repositories, my interactive <a href="https://uzairbaigdev.github.io/Portfolio-repo">Live Portfolio Site</a> is engineered with:</p>
 
-* 🌓 **Theme State Engine:** Smart dark/light client mode storage.
-* ⌘ **Command Palette:** `Ctrl + K` core listener engine for fluid keyboard navigation.
-* 🌐 **Dynamic Hydration:** Live metric ingestion directly from the GitHub REST API.
-* ✨ **Visual Assets:** Acceleration-optimized custom canvas particle-networks and micro-interactions.
+* 🌓 **Theme State Engine:** Smart dark/light client mode with persisted storage
+* ⌘ **Command Palette:** `Ctrl + K` core listener engine for fluid keyboard navigation
+* 🌐 **Dynamic Hydration:** Live metric ingestion directly from the GitHub REST API
+* 🔐 **Role-Based Access Demos:** Live Admin/Technician/User flows inside Maintain IQ
+* ✨ **Visual Assets:** Acceleration-optimized custom canvas particle networks and micro-interactions
 
 </td>
 </tr>
@@ -185,10 +228,10 @@ What started as curiosity turned into **23+ projects** built entirely from scrat
 
 ### 🤝 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=googlechrome&logoColor=white)]( https://uzairbaigdev.github.io/Portfolio-repo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0369a1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://uzairbaigdev.github.io/Portfolio-repo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-baig-1699563ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairBaigdev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairbaigdev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mirza_uzair_baig5x)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61584799112383)
@@ -198,11 +241,15 @@ What started as curiosity turned into **23+ projects** built entirely from scrat
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairBaig395&show_icons=true&theme=tokyonight&count_private=true" alt="Uzair's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairBaig395&theme=tokyonight" alt="GitHub Streak" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairbaigdev&show_icons=true&theme=tokyonight&count_private=true" alt="Uzair's GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairbaigdev&theme=tokyonight" alt="GitHub Streak" height="160px"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=uzairBaig395&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairbaigdev&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=uzairbaigdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </td>
 </tr>
