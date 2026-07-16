@@ -16,6 +16,8 @@
 
 ## About Me
 
+<img align="right" width="380" alt="Animated illustration of a developer working on a laptop" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" />
+
 I'm a self-taught frontend developer based in Karachi, Pakistan, who learns by
 shipping — every project on this profile is a real, deployed application rather
 than a copied tutorial. My focus is **JavaScript (ES6+)** paired with **Firebase**
@@ -29,7 +31,7 @@ workflows, chat, and account-based tools.
   and REST API integration
 - 📫 Reach me at **mirzauzair448@gmail.com**
 
-<br/>
+<br clear="right"/>
 
 ## Tech Stack
 
