@@ -23,8 +23,8 @@ than a copied tutorial. My focus is **JavaScript (ES6+)** paired with **Firebase
 workflows, chat, and account-based tools.
 
 
-- 🌱 Learning full-stack development to round out these frontend-heavy projects with
-  proper backend architecture
+- 🌱 Currently learning full-stack development from SMIT to round out these
+  frontend-heavy projects with proper backend architecture
 - 🛠️ Comfortable with responsive layouts (Flexbox/Grid), Firebase Auth & Firestore,
   and REST API integration
 - 📫 Reach me at **mirzauzair448@gmail.com**
@@ -35,7 +35,7 @@ workflows, chat, and account-based tools.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,firebase,git,github,vscode&theme=dark" alt="Tech stack: JavaScript, HTML5, CSS3, Firebase, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,vscode&theme=dark" alt="Tech stack: JavaScript, React, HTML5, CSS3, Firebase, Git, GitHub, VS Code" />
 
 </div>
 
@@ -101,7 +101,7 @@ workflows, chat, and account-based tools.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
 
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=uzairbaigdev&label=&color=1f6feb&style=flat" alt="profile view counter" height="18" align="center"/></sub>
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=uzairbaigdev&label=&color=1f6feb&style=flat&base=16442" alt="profile view counter" height="18" align="center"/></sub>
 
 </div>
 
