@@ -37,7 +37,7 @@ workflows, chat, and account-based tools.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,firebase,git,github,vscode&theme=dark" alt="Tech stack: JavaScript, React, HTML5, CSS3, Firebase, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=js,cpp,react,html,css,firebase,nodejs,express,git,github,postman,vscode&theme=dark" alt="Tech stack: JavaScript, C++, React, HTML5, CSS3, Firebase, Node.js, Express.js, Git, GitHub, Postman, VS Code" />
 
 </div>
 
