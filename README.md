@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Mirza%20Uzair%20Baig&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%2C%20Avenzo%20Studio%20-%20Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=18" alt="Header banner: Mirza Uzair Baig, Founder and CEO of Avenzo Studio - Full Stack MERN Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=200&amp;section=header&amp;text=Mirza%20Uzair%20Baig&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Founder%20and%20CEO%2C%20Avenzo%20Studio%20-%20Full%20Stack%20MERN%20Developer&amp;descAlignY=58&amp;descSize=18" alt="Header banner: Mirza Uzair Baig, Founder and CEO of Avenzo Studio - Full Stack MERN Developer" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+%40+Avenzo+Studio;Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%2B+Firebase;Self-Taught.+Always+Building." alt="Animated tagline: Founder and CEO at Avenzo Studio, Software Engineer, Full Stack Developer, MERN Stack + Firebase, Self-Taught, Always Building." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Founder+and+CEO+%40+Avenzo+Studio;Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%2B+Firebase;Self-Taught.+Always+Building." alt="Animated tagline: Founder and CEO at Avenzo Studio, Software Engineer, Full Stack Developer, MERN Stack + Firebase, Self-Taught, Always Building." />
 
 <br/>
 
@@ -41,7 +41,7 @@ data at the core: request workflows, chat, and account-based tools.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cpp,react,html,css,firebase,nodejs,express,mongodb,git,github,postman,vscode&theme=dark" alt="Tech stack: JavaScript, C++, React, HTML5, CSS3, Firebase, Node.js, Express.js, MongoDB, Git, GitHub, Postman, VS Code" />
+<img src="https://skillicons.dev/icons?i=js,cpp,react,html,css,firebase,nodejs,express,mongodb,git,github,postman,vscode&amp;theme=dark" alt="Tech stack: JavaScript, C++, React, HTML5, CSS3, Firebase, Node.js, Express.js, MongoDB, Git, GitHub, Postman, VS Code" />
 
 </div>
 
@@ -101,12 +101,12 @@ Building software products and digital experiences with the MERN stack and Fireb
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzairbaigdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Mirza Uzair Baig's GitHub stats: repositories, stars, commits, and contributions" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairbaigdev&theme=tokyonight&hide_border=true" alt="Mirza Uzair Baig's GitHub contribution streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uzairbaigdev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Mirza Uzair Baig's GitHub stats: repositories, stars, commits, and contributions" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairbaigdev&amp;theme=tokyonight&amp;hide_border=true" alt="Mirza Uzair Baig's GitHub contribution streak" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairbaigdev&theme=tokyo-night&hide_border=true" alt="Mirza Uzair Baig's GitHub contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairbaigdev&amp;theme=tokyo-night&amp;hide_border=true" alt="Mirza Uzair Baig's GitHub contribution activity graph" width="100%"/>
 
 </div>
 
@@ -123,8 +123,8 @@ Building software products and digital experiences with the MERN stack and Fireb
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
 
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=uzairbaigdev&label=&color=1f6feb&style=flat&base=16442" alt="profile view counter" height="18" align="center"/></sub>
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=uzairbaigdev&amp;label=&amp;color=1f6feb&amp;style=flat&amp;base=16442" alt="profile view counter" height="18" align="center"/></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,100:1a1b27&amp;height=100&amp;section=footer" alt="" width="100%"/>
