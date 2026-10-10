@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,100:7aa2f7&amp;height=200&amp;section=header&amp;text=Mirza%20Uzair%20Baig&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Founder%20and%20CEO%2C%20Avenzo%20Studio%20-%20Full%20Stack%20MERN%20Developer&amp;descAlignY=58&amp;descSize=18" alt="Header banner: Mirza Uzair Baig, Founder and CEO of Avenzo Studio - Full Stack MERN Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Mirza%20Uzair%20Baig&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20and%20CEO%2C%20Avenzo%20Studio%20-%20Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=18" alt="Header banner: Mirza Uzair Baig, Founder and CEO of Avenzo Studio - Full Stack MERN Developer" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Founder+and+CEO+%40+Avenzo+Studio;Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%2B+Firebase;Self-Taught.+Always+Building." alt="Animated tagline: Founder and CEO at Avenzo Studio, Software Engineer, Full Stack Developer, MERN Stack + Firebase, Self-Taught, Always Building." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Founder+and+CEO+%40+Avenzo+Studio;Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%2B+Firebase;Self-Taught.+Always+Building." alt="Animated developer tagline"/>
 
 <br/>
 
@@ -19,29 +19,40 @@
 
 <img align="right" width="380" alt="Animated illustration of a developer working on a laptop" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" />
 
-I'm **Mirza Uzair Baig** — Founder & CEO of **[Avenzo Studio](https://avenzostudio.com)**,
-a software engineer and full stack **MERN** developer based in Karachi, Pakistan.
-I'm self-taught and learn by shipping — every project on this profile is a real,
-deployed application rather than a copied tutorial. My focus is building complete
-products end-to-end, from **React** front ends to **Node.js/Express** back ends,
-backed by **MongoDB** or **Firebase** (Authentication + Firestore), with real-time
-data at the core: request workflows, chat, and account-based tools.
+I'm **Mirza Uzair Baig** — Founder & CEO of **[Avenzo Studio](https://avenzostudio.com)**, a software developer focused on building modern, responsive web applications and full-stack solutions.
+
+I'm learning and building through real-world projects, with a focus on creating complete products from frontend interfaces to backend APIs and databases. My current stack includes **React, Node.js, Express.js, MongoDB, and Firebase**, alongside modern validation, state management, and SEO practices.
 
 - 🚀 Founder & CEO of **Avenzo Studio** — [avenzostudio.com](https://avenzostudio.com)
-- 🌱 Currently learning full-stack development from SMIT to sharpen backend
-  architecture alongside these frontend-heavy projects
-- 🛠️ Comfortable with responsive layouts (Flexbox/Grid), the MERN stack
-  (MongoDB, Express.js, React, Node.js), Firebase Auth & Firestore, and REST
-  API integration
-- 📫 Reach me at **mirzauzair448@gmail.com**
+- 🌱 Learning full-stack development at SMIT, strengthening my backend architecture and development skills
+- 🛠️ Working with responsive UI, the MERN stack, Firebase Authentication, Firestore, REST APIs, and form validation
+- 🔎 Interested in technical SEO, website performance, and search engine visibility
+- 📫 Contact: **mirzauzair448@gmail.com**
 
 <br clear="right"/>
 
 ## Tech Stack
 
+### Languages, Frontend & Backend
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cpp,react,html,css,firebase,nodejs,express,mongodb,git,github,postman,vscode&amp;theme=dark" alt="Tech stack: JavaScript, C++, React, HTML5, CSS3, Firebase, Node.js, Express.js, MongoDB, Git, GitHub, Postman, VS Code" />
+<img src="https://skillicons.dev/icons?i=js,cpp,react,html,css,nodejs,express,mongodb,firebase&theme=dark" alt="JavaScript, C++, React, HTML, CSS, Node.js, Express, MongoDB and Firebase"/>
+
+</div>
+
+### Tools, State Management & Validation
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git, GitHub, Postman and VS Code"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SEO-Search_Engine_Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
+<img src="https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge" alt="Zustand state management"/>
+<img src="https://img.shields.io/badge/Yup-Schema_Validation-7AA2F7?style=for-the-badge" alt="Yup schema validation"/>
+<img src="https://img.shields.io/badge/Joi-Data_Validation-6C5CE7?style=for-the-badge" alt="Joi data validation"/>
 
 </div>
 
@@ -52,9 +63,10 @@ data at the core: request workflows, chat, and account-based tools.
 <div align="center">
 
 ### 🏢 [Avenzo Studio](https://avenzostudio.com)
+
 **Founder & CEO**
 
-Building software products and digital experiences with the MERN stack and Firebase.
+Building modern websites, web applications, and digital experiences for businesses.
 
 [![Visit Avenzo Studio](https://img.shields.io/badge/Visit-avenzostudio.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://avenzostudio.com)
 
@@ -66,32 +78,33 @@ Building software products and digital experiences with the MERN stack and Fireb
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| ⭐ **MaintainIQ** | Real-time maintenance-request platform: users submit an issue and pick a technician, technicians accept/resolve the job, and users can dispute a resolution to reopen it — all synced live | Firebase Auth, Firestore | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/maintain-IQ-Level) · [Live Demo](https://uzairbaigdev.github.io/Portfolio-repo/Projects/maintain-IQ-Level/index.html) |
+| ⭐ **MaintainIQ** | Maintenance-request platform where users submit issues, technicians resolve jobs, and users can dispute resolutions | Firebase Auth, Firestore | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/maintain-IQ-Level) · [Live Demo](https://uzairbaigdev.github.io/Portfolio-repo/Projects/maintain-IQ-Level/index.html) |
 | **Chat App** | Real-time messaging app with cloud-synced conversations | Firestore, Firebase Auth | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/chatApp) |
-| **Authentication Todo App** | Full sign-up/login flow with a private, per-user real-time todo list | Firebase Auth, Firestore | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Authentication%20Todo) |
-| **Ecommerce Web** | Product catalog backed by Firestore for live inventory data | Firestore, JavaScript | [Source](https://github.com/uzairbaigdev/Ecommerce-Web-1) |
-| **Nascom Website** | Multi-page responsive company website (home, about, contact) built from scratch, no framework | HTML5, CSS3, JavaScript | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/nascom-website) |
-| **Weather App** | City weather lookup pulling live data from a public REST API | REST API, Fetch | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Weather%20App) |
+| **Authentication Todo App** | Sign-up, login, and private, per-user todo management | Firebase Auth, Firestore | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Authentication%20Todo) |
+| **Ecommerce Web** | Product catalog with Firestore-backed inventory data | Firestore, JavaScript | [Source](https://github.com/uzairbaigdev/Ecommerce-Web-1) |
+| **Nascom Website** | Multi-page responsive company website built without a framework | HTML5, CSS3, JavaScript | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/nascom-website) |
+| **Weather App** | City weather lookup using a public REST API | REST API, Fetch | [Source](https://github.com/uzairbaigdev/Portfolio-repo/tree/main/Projects/Weather%20App) |
 
 <details>
 <summary><b>More projects</b> — todo apps, calculator, games, and utilities</summary>
+
 <br/>
 
 | Project | What it does | Stack |
 |---|---|---|
 | **Todo App (Firebase)** | Task manager with Firestore sync across devices | Firestore, JavaScript |
-| **Student Management System** | Add, edit, delete, and search student records client-side | LocalStorage, DOM |
+| **Student Management System** | Add, edit, delete, and search student records | LocalStorage, DOM |
 | **Todo with LocalStorage** | Persistent task list that survives a page refresh | JavaScript, DOM API |
-| **Advanced Calculator** | Full-featured calculator with keyboard input support | DOM, HTML/CSS |
-| **Color Matching Game** | Interactive timed matching grid game | Game Loop, Events |
-| **Bank Balance Tracker** | Ledger-style balance and transaction tracker | LocalStorage, Logic |
-| **Table Generator** | Dynamically generates HTML table grids | JavaScript, HTML/CSS |
+| **Advanced Calculator** | Calculator with keyboard input support | DOM, HTML, CSS |
+| **Color Matching Game** | Interactive timed matching game | JavaScript, Events |
+| **Bank Balance Tracker** | Ledger-style balance and transaction tracker | LocalStorage, JavaScript |
+| **Table Generator** | Dynamically generates HTML table grids | JavaScript, HTML, CSS |
 
 </details>
 
 <div align="center">
 
-<sub>👉 See every project live in the <a href="https://uzairbaigdev.github.io/Portfolio-repo/#projects">Projects section</a> of the portfolio, and check out company work at <a href="https://avenzostudio.com">avenzostudio.com</a>.</sub>
+<sub>👉 Explore all projects in the <a href="https://uzairbaigdev.github.io/Portfolio-repo/#projects">portfolio projects section</a> and discover company work at <a href="https://avenzostudio.com">avenzostudio.com</a>.</sub>
 
 </div>
 
@@ -101,18 +114,18 @@ Building software products and digital experiences with the MERN stack and Fireb
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzairbaigdev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Mirza Uzair Baig's GitHub stats: repositories, stars, commits, and contributions" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairbaigdev&amp;theme=tokyonight&amp;hide_border=true" alt="Mirza Uzair Baig's GitHub contribution streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uzairbaigdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Mirza Uzair Baig's GitHub statistics" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairbaigdev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairbaigdev&amp;theme=tokyo-night&amp;hide_border=true" alt="Mirza Uzair Baig's GitHub contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairbaigdev&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
 
 </div>
 
 <br/>
 
-## Connect
+## Connect With Me
 
 <div align="center">
 
@@ -123,8 +136,10 @@ Building software products and digital experiences with the MERN stack and Fireb
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Uzairbaig3x)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzauzair448@gmail.com)
 
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=uzairbaigdev&amp;label=&amp;color=1f6feb&amp;style=flat&amp;base=16442" alt="profile view counter" height="18" align="center"/></sub>
+<br/><br/>
+
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=uzairbaigdev&label=&color=1f6feb&style=flat&base=16442" alt="Profile view counter" height="18" align="center"/></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,100:1a1b27&amp;height=100&amp;section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" alt="" width="100%"/>
