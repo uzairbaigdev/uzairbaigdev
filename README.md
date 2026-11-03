@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Mirza%20Uzair%20Baig&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20and%20CEO%2C%20Avenzo%20Studio%20-%20Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=18" alt="Header banner: Mirza Uzair Baig, Founder and CEO of Avenzo Studio - Full Stack MERN Developer" width="100%"/>
 
@@ -21,38 +21,21 @@
 
 I'm **Mirza Uzair Baig** — Founder & CEO of **[Avenzo Studio](https://avenzostudio.com)**, a software developer focused on building modern, responsive web applications and full-stack solutions.
 
-I'm learning and building through real-world projects, with a focus on creating complete products from frontend interfaces to backend APIs and databases. My current stack includes **React, Node.js, Express.js, MongoDB, and Firebase**, alongside modern validation, state management, and SEO practices.
+I'm learning and building through real-world projects, with a focus on creating complete products from frontend interfaces to backend APIs and databases. My current stack includes **React, Node.js, Express.js, MongoDB, and Firebase**, alongside modern validation and state management practices.
 
 - 🚀 Founder & CEO of **Avenzo Studio** — [avenzostudio.com](https://avenzostudio.com)
 - 🌱 Learning full-stack development at SMIT, strengthening my backend architecture and development skills
 - 🛠️ Working with responsive UI, the MERN stack, Firebase Authentication, Firestore, REST APIs, and form validation
-- 🔎 Interested in technical SEO, website performance, and search engine visibility
+- 🔎 Interested in website performance
 - 📫 Contact: **mirzauzair448@gmail.com**
 
 <br clear="right"/>
 
 ## Tech Stack
 
-### Languages, Frontend & Backend
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cpp,react,html,css,nodejs,express,mongodb,firebase&theme=dark" alt="JavaScript, C++, React, HTML, CSS, Node.js, Express, MongoDB and Firebase"/>
-
-</div>
-
-### Tools, State Management & Validation
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git, GitHub, Postman and VS Code"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SEO-Search_Engine_Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
-<img src="https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge" alt="Zustand state management"/>
-<img src="https://img.shields.io/badge/Yup-Schema_Validation-7AA2F7?style=for-the-badge" alt="Yup schema validation"/>
-<img src="https://img.shields.io/badge/Joi-Data_Validation-6C5CE7?style=for-the-badge" alt="Joi data validation"/>
+<img src="https://skillicons.dev/icons?i=js,cpp,react,nextjs,html,css,nodejs,express,mongodb,firebase,git,github,postman,vscode&theme=dark" alt="JavaScript, C++, React, Next.js, HTML, CSS, Node.js, Express, MongoDB, Firebase, Git, GitHub, Postman and VS Code"/>
 
 </div>
 
